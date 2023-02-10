@@ -1,24 +1,22 @@
 # Prework Study Guide webpage
 
 ## Description
+This was made to help consolidate information and usefull applications from the course work we did.
+Shows tips and tricks for Git, HTML, Javascript and CSS
 
-This guide was made to consolidate information that was gathered durring the prework portion of this program
--Learned key features of Git, HTML, CSS and Javascript
--solves the probelm of having to find information from multipul locations
 
 ## Installation
-N/A
+
+n/a
 
 ## Usage
-Each section contains notes about the specified topic
-with devtools console you can see the javascript running
 
+notes are provided in each section, JS can be viewed through the Devtools console
 
 ## Credits
 
-N/A
+N/a
+
 ## License
 MIT
-Please refer to the LICENSE in the repo
-
-
+Please refer to the LICENSE in the repo.
